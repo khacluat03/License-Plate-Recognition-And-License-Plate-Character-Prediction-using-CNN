@@ -13,7 +13,7 @@
 
 ### Các bước chính được dùng trong bài toán này:
 
-<p align="center"><img src="https://raw.githubusercontent.com/khacluat03/License-Plate-Recognition-And-License-Plate-Character-Prediction/refs/heads/master/image.png" width="300"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/khacluat03/License-Plate-Recognition-And-License-Plate-Character-Prediction-using-CNN/refs/heads/main/image.png" width="300"></p>
 
 ---
 
@@ -48,7 +48,7 @@ Remember to download the models in the model folder.
 
 ### Main steps used in this problem:
 
-<p align="center"><img src="https://raw.githubusercontent.com/khacluat03/License-Plate-Recognition-And-License-Plate-Character-Prediction/refs/heads/master/image.png" width="300"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/khacluat03/License-Plate-Recognition-And-License-Plate-Character-Prediction-using-CNN/refs/heads/main/image.png" width="300"></p>
 
 ---
 

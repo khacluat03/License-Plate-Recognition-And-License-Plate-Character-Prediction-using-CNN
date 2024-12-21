@@ -8,8 +8,8 @@
 - Sử dụng file `Code_Demo_On_Local_Machine.ipynb` trong thư mục `notebook` để sử dụng và chạy thử với máy local.
   Hãy nhớ tải các mô hình trong thư mục model.
 - Hãy tham khảo các notebook Train_Model... để đào tạo mô hình với dữ liệu của bạn.
-- Các bộ dataset kèm theo, bạn có thể tham khảo trên mô hình của bạn:
-  - Bộ dataset nhận diện biển số xe: [LINK](https://1drv.ms/f/c/131c537c95a10340/EmLMfz6nW55JqqGLO4BTZMcB4ooYr3uPofO46sWlmY4QEg?e=zkOHgh)
+- Các bộ dataset kèm theo, bạn có thể tham khảo trên mô hình của tôi:
+  - Bộ dataset để huấn luyện mô hình: [LINK](https://1drv.ms/f/c/131c537c95a10340/EmLMfz6nW55JqqGLO4BTZMcB4ooYr3uPofO46sWlmY4QEg?e=zkOHgh)
 
 ### Các bước chính được dùng trong bài toán này:
 
@@ -42,9 +42,9 @@ Remember to download the models in the model folder.
 
 - Refer to the Train_Model... notebooks to train the model with your data.
 
-- The attached datasets, you can refer to your model:
+- The attached datasets, you can refer to my model:
 
-- License plate recognition dataset: [LINK](https://1drv.ms/f/c/131c537c95a10340/EmLMfz6nW55JqqGLO4BTZMcB4ooYr3uPofO46sWlmY4QEg?e=zkOHgh)
+- Dataset to train your model: [LINK](https://1drv.ms/f/c/131c537c95a10340/EmLMfz6nW55JqqGLO4BTZMcB4ooYr3uPofO46sWlmY4QEg?e=zkOHgh)
 
 ### Main steps used in this problem:
 

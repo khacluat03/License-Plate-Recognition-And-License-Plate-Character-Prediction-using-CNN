@@ -32,7 +32,8 @@ Dùng các bouding box đã nhận diện biển số, sau đó cắt lưu thàn
 
 Dùng mô hình dự đoán kí tự để dự đoán và trực quan kết quả bằng matplotlib.
 
-> BÀI CỦA TÔI CHỈ LÀ THAM KHẢO, HÃY CẢI TIẾN CÁC MÔ HÌNH VÀ CÁCH LÀM MỚI NHÉ!!! CHÚC BẠN THÀNH CÔNG!!!
+
+> # BÀI CỦA TÔI CHỈ LÀ THAM KHẢO, HÃY CẢI TIẾN CÁC MÔ HÌNH VÀ CÁCH LÀM MỚI NHÉ!!! CHÚC BẠN THÀNH CÔNG!!!
 
 ## Các kết quả nhận được khi train lại mô hình với dữ liệu đã tăng cường
 
@@ -89,7 +90,8 @@ Use the bounding boxes that have recognized the license plate, then crop and sav
 
 Use the character prediction model to predict and visualize the results with matplotlib.
 
-> MY POST IS ONLY FOR REFERENCE, IMPROVE THE MODELS AND NEW METHODS!!! GOOD LUCK!!!
+
+> # MY POST IS ONLY FOR REFERENCE, IMPROVE THE MODELS AND NEW METHODS!!! GOOD LUCK!!!
 
 ## Results obtained when retraining the model with the augmented data
 

@@ -37,18 +37,18 @@ Dùng mô hình dự đoán kí tự để dự đoán và trực quan kết qu�
 ## Các kết quả nhận được khi train lại mô hình với dữ liệu đã tăng cường
 
 <p align="center">
-  <img src="./results/result1.png" alt="Loss" width="200">
-  <img src="./results/result2.png" alt="MAE" width="200">
-  <img src="./results/result3.png" alt="Accuracy" width="200">
+  <img src="./results/result1.png" alt="Loss" width="400">
+  <img src="./results/result2.png" alt="MAE" width="400">
+  <img src="./results/result3.png" alt="Accuracy" width="400">
 </p>
 <p align="center">
-  <img src="./results/result4.png" alt="Detect Plate" width="200">
+  <img src="./results/result4.png" alt="Detect Plate" width="800">
 </p>
 
 ## Kết quả khi dự đoán kí tự trong biển số
 
 <p align="center">
-  <img src="./results/result5.png" alt="Predict character" width="200">
+  <img src="./results/result5.png" alt="Predict character" width="800">
 </p>
 
 ---
@@ -94,16 +94,16 @@ Use the character prediction model to predict and visualize the results with mat
 ## Results obtained when retraining the model with the augmented data
 
 <p align="center">
-<img src="./results/result1.png" alt="Loss" width="200">
-<img src="./results/result2.png" alt="MAE" width="200">
-<img src="./results/result3.png" alt="Accuracy" width="200">
+<img src="./results/result1.png" alt="Loss" width="400">
+<img src="./results/result2.png" alt="MAE" width="400">
+<img src="./results/result3.png" alt="Accuracy" width="400">
 </p>
 <p align="center">
-<img src="./results/result4.png" alt="Detect Plate" width="200">
+<img src="./results/result4.png" alt="Detect Plate" width="800">
 </p>
 
 ## Results when predicting characters in the license plate
 
 <p align="center">
-<img src="./results/result5.png" alt="Predict character" width="200">
+<img src="./results/result5.png" alt="Predict character" width="800">
 </p>

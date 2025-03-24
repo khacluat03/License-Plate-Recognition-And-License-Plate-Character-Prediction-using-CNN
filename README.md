@@ -54,6 +54,7 @@ Dùng mô hình dự đoán kí tự để dự đoán và trực quan kết qu�
 
 ---
 
+
 <h1 align="center"> Detecting license plates and predicting characters on license plates </h2>
 
 ### You need to install the following subjects and libraries before using: `Python`, `cv2`, `tensorflow`, `matplotlib`. If the machine reports an error, use the command `pip install <missing library>` to install.
